@@ -36,3 +36,4 @@ huggingface_hub
 duckdb
 pytubefix
 google-api-python-client
+sqlite3
