@@ -8,3 +8,4 @@ langchain-huggingface
 chromadb
 pypdf
 python-dotenv
+sqlite3
