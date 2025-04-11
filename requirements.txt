@@ -5,6 +5,7 @@ langchain-community
 langchain-core
 langchain-groq
 langchain-huggingface
+pysqlite3-binary
 chromadb
 pypdf
 python-dotenv
