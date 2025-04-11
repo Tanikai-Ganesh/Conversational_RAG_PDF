@@ -36,4 +36,4 @@ huggingface_hub
 duckdb
 pytubefix
 google-api-python-client
-sqlite3
+sqlite3==3.36.0
